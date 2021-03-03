@@ -1,0 +1,2 @@
+As I'm going to use QuarkTS RTOS for different projects, I decided to build 
+a simple hal to help and be compatible with the OS and portable if possible.
